@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this book, please cite it as below."
+authors:
+- family-names: "Calamo"
+  given-names: "Antonio"
+title: "Il_Magistero_Della_Scuola"
+version: 1.0.0
+date-released: 2025-07-14
+url: "https://github.com/R0mb0/Il_Magistero_Della_Scuola"
